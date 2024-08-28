@@ -4,5 +4,6 @@ print("Hello, World!")
 
 numbers = [1, 2, 3, 4, 5]
 
+# Print all numbers in the array
 for number in numbers:
     print(number)
